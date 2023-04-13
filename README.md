@@ -1,11 +1,7 @@
 # web3-pbrepo
 Prueba de repositorio colaborativo
 
-<!DOCTYPE html>
 <html>
-  <head>
-    <title>Título del proyecto</title>
-  </head>
   <body>
     <h1>Título del proyecto</h1>
     <p>Descripción breve del proyecto</p>
