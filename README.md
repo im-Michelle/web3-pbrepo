@@ -13,14 +13,15 @@ Prueba de repositorio colaborativo
 <p>Aquí se explicará cómo se puede usar el proyecto. Incluye instrucciones detalladas sobre cómo instalar y configurar el proyecto.</p>
     
 <h2>Tecnologías utilizadas</h2>
-    
-    
-    
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
 <h2>Autoría</h2>
 <ol>
     <li>Michelle</li>
 </ol>
-    
 <h2>Agradecimientos</h2>
 <p>Aquí se puede agradecer a todas las personas que han ayudado en el proyecto o proporcionado comentarios y retroalimentación. Es una buena forma de mostrar agradecimiento y reconocimiento.</p>
 
